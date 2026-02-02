@@ -6,14 +6,14 @@ const contactInfo = [
   {
     icon: Mail,
     label: "Email",
-    value: "andrew.l@email.com",
-    href: "mailto:andrew.l@email.com",
+    value: "andrewbca2003@gmail.com",
+    href: "mailto:andrewbca2003@gmail.com",
   },
   {
     icon: Phone,
     label: "Phone",
-    value: "+91 98XXX XXXXX",
-    href: "tel:+919800000000",
+    value: "+91 9566655909",
+    href: "tel:+91 9566655909",
   },
   {
     icon: MapPin,
@@ -27,12 +27,12 @@ const socialLinks = [
   {
     icon: Linkedin,
     label: "LinkedIn",
-    href: "https://linkedin.com/in/andrewl",
+    href: "https://www.linkedin.com/in/andrew-error/",
   },
   {
     icon: Github,
     label: "GitHub",
-    href: "https://github.com/andrewl",
+    href: "https://github.com/andrew2003-error",
   },
 ];
 
@@ -134,13 +134,13 @@ const ContactSection = () => {
                   
                   <div className="space-y-4">
                     <Button variant="hero" size="lg" className="w-full group" asChild>
-                      <a href="mailto:andrew.l@email.com">
+                      <a href="mailto:andrewbca2003@gmail.com">
                         Send Message
                         <ArrowUpRight className="w-5 h-5 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform" />
                       </a>
                     </Button>
                     <Button variant="heroOutline" size="lg" className="w-full" asChild>
-                      <a href="#" download>
+                      <a href="https://drive.google.com/file/d/1o6THhpxWfbHwkHrlQvEpiNcGRjEee-15/view?usp=drive_link" download>
                         Download Resume
                       </a>
                     </Button>
